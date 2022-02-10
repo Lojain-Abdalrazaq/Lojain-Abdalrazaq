@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ***Flutters and UX Design***
 
-- 💬 Ask me about ***HTML and CSS***
+- 💬 Ask me about ***HTML, CSS and Python***
 
 - ⚡ ***Without labor, nothing prospers*** ⚡ <br></br>
 
