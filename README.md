@@ -3,7 +3,7 @@
 
 <h2>About Me 📌</h2>
 
-- 🌱 I’m currently learning ***Flutters and UX Design***
+- 🌱 I’m currently learning ***Flutters and Dart Language***
 
 - 💬 Ask me about ***HTML, CSS and Python***
 
