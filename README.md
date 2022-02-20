@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning ***Flutters and Dart Language***
 
-- 💬 Ask me about ***HTML, CSS and Python***
+- 💬 Ask me about ***HTML, CSSnd Python***
+
+- 📫 How to reach ***me lojain.jalal@gmail.com***
 
 - ⚡ ***Without labor, nothing prospers*** ⚡ <br></br>
 
@@ -25,7 +27,6 @@
 <h2 align="center">Find Me Here 😎</h2>
 <p align="center">
  <a href="https://www.leetcode.com/lojain_abdalrazaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Lojain Abdalrazaq" height="30" width="40" /></a>
-  <a href = "mailto:lojain.jalal@gmail.com" target="blank"><img align="center" src = "https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1644515266~hmac=1482ef266cb986ecbad32a37e0aa1cf8" height="40" width = "40" ></a>
  <a href="https://www.linkedin.com/in/lojain-jalal-60a074206/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lojain jalal" height="35" width="40" /></a>
 </p>
 <div align="center" >
