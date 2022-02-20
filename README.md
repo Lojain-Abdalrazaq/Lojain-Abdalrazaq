@@ -7,7 +7,7 @@
 
 - 💬 Ask me about ***HTML, CSSnd Python***
 
-- 📫 How to reach ***me lojain.jalal@gmail.com***
+- 📫 How to reach me ***lojain.jalal@gmail.com***
 
 - ⚡ ***Without labor, nothing prospers*** ⚡ <br></br>
 
