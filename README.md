@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ***Flutters and Dart Language***
 
-- 💬 Ask me about ***HTML, CSSnd Python***
+- 💬 Ask me about ***HTML, CSS and Python***
 
 - 📫 How to reach me ***lojain.jalal@gmail.com***
 
