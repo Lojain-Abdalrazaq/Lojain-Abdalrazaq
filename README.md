@@ -26,7 +26,6 @@
 <br></br>
 <h2 align="center">Find Me Here 😎</h2>
 <p align="center">
- <a href="https://www.leetcode.com/lojain_abdalrazaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Lojain Abdalrazaq" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/lojain-jalal-60a074206/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lojain jalal" height="35" width="40" /></a>
 </p>
 <div align="center" >
