@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Lojain Abdalrazaq 👋</h1>
-<h3 align="center">A fourth year Computer Engineering student at Birzeit University</h3>
+<h3 align="center">A 5th year Computer Engineering student at Birzeit University</h3>
 
 <h2>About Me 📌</h2>
 
