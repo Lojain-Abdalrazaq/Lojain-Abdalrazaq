@@ -6,9 +6,3 @@
 - 📫 How to reach me ***lojain.jalal@gmail.com***
 
 - ***Without labor, nothing prospers***  <br></br>
-
-
-
-
-
-
